@@ -1,6 +1,7 @@
 # SDTTS
  Simple Discord TTS is python script for using tts (text to speech) on Discord voice calls.
 
+
  ## Requirements
 
 * [Python 3.10.2](https://www.python.org/)
